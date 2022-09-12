@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabhas Thakur
-- 👀 I’m interested in JAVASCRIPT
-- 🌱 I’m currently learning and coding in Javascript and nodeJS
+- 👀 I’m interested in MERN stack
+- 🌱 I’m currently learning and coding in Javascript and nodeJS mongodb express
 - 💞️ I’m looking to collaborate on my current project which includes chat-app weather-api task-manager api
 - 📫 Reach me via my email id prabhast11@gmail.com
 
